@@ -1,0 +1,2 @@
+Notre application consiste principalement sur la location des voitures éléctriques pour vos déplacements de courte durée,
+Notre principe est de trouver une voiture juste a vos cotés,de la réserver en ligne,puis de scanner le code QR de la véhicule pour la déverrouiller.
